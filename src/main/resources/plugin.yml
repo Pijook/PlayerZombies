@@ -1,0 +1,9 @@
+name: PlayerZombies
+author: Pijok_
+version: 1.0.0
+api-version: 1.13
+main: pl.pijok.playerzombies.PlayerZombies
+commands:
+  playerzombies:
+    usage: /playerzombies
+    aliases: [zombies, pz]

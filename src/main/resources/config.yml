@@ -1,0 +1,27 @@
+#Should plugin spawn zombie on player death
+enabled: true
+
+#Should player get poison when is hit by zombie
+poisonOnHit: true
+
+poison:
+  level: 1
+  duration: 5
+
+#Zombie name
+zombieName: "&4&l{NICKNAME}"
+
+#Should zombie get armor and item from hand of dead player
+transferInventory: true
+
+#Should custom zombie be spawned on player death instead of normal
+spawnCustomZombie: true
+
+#Custom zombie statistics
+customZombieStats:
+  speed: 1.0
+  health: 20.0
+  damage: 5.0
+
+#Chance for baby zombie
+babyZombieChance: 5.0
